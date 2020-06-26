@@ -26,7 +26,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['meaddjango.azurewebsites.net']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
